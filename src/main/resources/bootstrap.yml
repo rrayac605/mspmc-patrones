@@ -1,0 +1,7 @@
+spring:
+  application:    
+    name: mspmc-patrones
+info: 
+  component: Microservicio de Patrones
+    
+    
